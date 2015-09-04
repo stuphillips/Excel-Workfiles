@@ -1,0 +1,5 @@
+Sql server: 188.121.37.135,6433
+Db: horsevents
+DataObject: TrainingData
+User: training
+Pw: 1Train
